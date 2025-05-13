@@ -22,7 +22,6 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />&nbsp;
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />&nbsp;
     <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />&nbsp;
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />&nbsp;
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />&nbsp;
     <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />&nbsp;
     <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white" />&nbsp;
