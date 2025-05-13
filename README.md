@@ -1,9 +1,6 @@
 ### Juwon
 - 📩 Mail [juwon.yun.kr@gmail.com]
 
-### 🎈 Activities
-
-
 ## 💼 Time Line
 
 ### 한국공학대학교 (2022.3 ~ 2024.9)  
@@ -11,19 +8,28 @@
 - **기술:** Nginx, Docker, MySQL, Linux
 
 
-<div align="center">
-<h3 align="center">📚 Tech Stack 📚</h3>
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="64" height="64" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="64" height="64" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="64" height="64" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="64" height="64" /><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="64" height="64" /></div>
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-  <br>
-  <img src="https://img.shields.io/badge/Scikit Learn-F7931E?logo=scikitlearn&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/amazon S3-569A31?logo=amazons3&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/amazon EC2-FF9900?logo=amazonec2&logoColor=white"/>
-  <img src="https://img.shields.io/badge/googlecloud-4285F4?logo=googlecloud&logoColor=white"/></a>&nbsp 
-</p>
+### Languages  
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Backend  
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)  
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### DevOps  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)  
+![S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)  
+![RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)  
+![Route 53](https://img.shields.io/badge/Amazon%20Route%2053-232F3E?style=for-the-badge&logo=amazon-route53&logoColor=white)  
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### Collaboration & Communication  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 👻 Github Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=yunjuwon0825&show_icons=true&theme=buefy)
