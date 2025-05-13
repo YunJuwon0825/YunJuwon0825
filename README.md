@@ -1,5 +1,5 @@
 ### Juwon
-- 📩 Mail [rlarlgnszx@naver.com]
+- 📩 Mail [juwon.yun.kr@gmail.com]
 
 ### 🎈 Activities
 
