@@ -27,6 +27,8 @@
   <img src="https://img.shields.io/badge/googlecloud-4285F4?logo=googlecloud&logoColor=white"/></a>&nbsp 
 </p>
 
+## 👻 Github Stats
+![Github Stats](https://github-readme-stats.vercel.app/api?username=yunjuwon0825&show_icons=true&theme=buefy)
 
 ## Project
 ### SERVER 
