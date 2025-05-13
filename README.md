@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🖋️ Juwon</h1>
+  <h1>YunJuwon</h1>
   <p>📩 <a href="mailto:juwon.yun.kr@gmail.com">juwon.yun.kr@gmail.com</a></p>
 </div>
 
