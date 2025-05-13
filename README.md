@@ -1,17 +1,15 @@
-# 🖋️ Juwon 
+## 🖋️ Juwon 
 📩 Mail [juwon.yun.kr@gmail.com]
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=yunjuwon0825&show_icons=true&theme=buefy)
 
 ## Project
-
 | Name       | Url                                         | Stack                          | Description                                                                 |
 |------------|---------------------------------------------|--------------------------------|-----------------------------------------------------------------------------|
+| Contacto.    | [Contacto.](https://github.com/wakawaka-CONTACTO) | Java Spring, EC2, RDS, Redis, DataDog, iOS         | 전세계의 문화 예술 창작자들과 협업 매칭을 도와주는 어플리케이션 |
 | RelaySketch    | [RelaySketch](https://github.com/2023-Summer-Bootcamp-Team-B/RelaySketch) | Django, EC2, RDS, RedditMQ         | AI 이미지 맞히기 게임 Relay Sketch, 플레이어들을 거쳐가며 변하는 이미지를 추측해봐요! |
-| TalkTaka | [TalkTaka](https://github.com/Team-TalkTaka) | Django, EC2, RDS, RedditMQ | 아이들의 “오늘 하루 있었던 일”을 주제로 캐릭터와 음성채팅으로 대화를 나누며 하루를 돌아보고 기록해주는 서비스 |
-| 솝커톤    | [솝커톤](https://playground.sopt.org/projects/172) | Java Spring, EC2, RDS         | 투제로는, 취향 퀴즈를 통해 서로 알아가고, 취향을 다 맞추는 순간! 연락처를 공유할 수 있는 서비스예요. |
-| 솝커톤    | [솝커톤](https://playground.sopt.org/projects/172) | Java Spring, EC2, RDS         | 투제로는, 취향 퀴즈를 통해 서로 알아가고, 취향을 다 맞추는 순간! 연락처를 공유할 수 있는 서비스예요. |
-| 솝커톤    | [솝커톤](https://playground.sopt.org/projects/172) | Java Spring, EC2, RDS         | 투제로는, 취향 퀴즈를 통해 서로 알아가고, 취향을 다 맞추는 순간! 연락처를 공유할 수 있는 서비스예요. |
+| TalkTaka | [TalkTaka](https://github.com/Team-TalkTaka) | Django, EC2, RDS, RedditMQ | 아이들의 “오늘 하루 있었던 일”을 주제로 캐릭터와 음성채팅으로 대화를 나누며 하루를 돌아보고 기록해주는 서비스입니다. |
+| Moitda    | [Moitda](https://github.com/2024-Team-Techeer-Salon) | Java Spring, EC2, RDS         | 취미가 맞는 사람을 찾아 오프라인에서 모임을 만드는 서비스입니다.  |
 
 
 
@@ -37,10 +35,3 @@
   </p>
 </div>
 
-
-## Project
-### SERVER 
-
-| Name       | Url                                         | Stack                          | Description                                                                 |
-|------------|---------------------------------------------|--------------------------------|-----------------------------------------------------------------------------|
-|    |  | Java Spring, EC2, RDS         | |
