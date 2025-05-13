@@ -1,6 +1,6 @@
 <div align="center">
-    🖋️ Juwon  
-    📩 Mail [juwon.yun.kr@gmail.com]
+  <h3>🖋️ Juwon</h3>
+  <p>📩 <a href="mailto:juwon.yun.kr@gmail.com">juwon.yun.kr@gmail.com</a></p>
 </div>
 
 
