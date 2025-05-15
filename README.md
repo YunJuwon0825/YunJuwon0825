@@ -38,6 +38,7 @@
 | RelaySketch    | [RelaySketch](https://github.com/2023-Summer-Bootcamp-Team-B/RelaySketch) | Django, EC2, RDS, RedditMQ         | AI 이미지 맞히기 게임 Relay Sketch, 플레이어들을 거쳐가며 변하는 이미지를 추측해봐요! |
 | TalkTaka | [TalkTaka](https://github.com/Team-TalkTaka) | Django, EC2, RDS, RedditMQ | 아이들의 “오늘 하루 있었던 일”을 주제로 캐릭터와 음성채팅으로 대화를 나누며 하루를 돌아보고 기록해주는 서비스입니다. |
 | Moitda    | [Moitda](https://github.com/2024-Team-Techeer-Salon) | Java Spring, EC2, RDS         | 취미가 맞는 사람을 찾아 오프라인에서 모임을 만드는 서비스입니다.  |
+| Rexume    | [Rexume]https://github.com/ReXume/techeer-resume) | Java Spring, EC2, RDS         | 자유롭게 이력서 공유와 피드백을 하는 서비스입니다.  |
 
 
 
